@@ -399,7 +399,7 @@ export default function HomePage() {
                 <div className="flex items-center space-x-3">
                   <Mail className="h-4 w-4 text-purple-400" />
                   <Link
-                    href="mailto:kuliahsekar608@gmail.com"
+                    href="mailto:wahyu.aji21@ui.ac.id"
                     className="text-purple-400 hover:text-purple-300 hover:underline text-sm transition-colors"
                   >
                     kuliahsekar608@gmail.com
