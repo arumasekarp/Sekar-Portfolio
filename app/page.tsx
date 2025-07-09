@@ -103,6 +103,24 @@ export default function HomePage() {
       link: "https://drive.google.com/drive/folders/1DobW9W8r5NJkFq6fLvZ7JytFuZCmC_fA?usp=sharing",
       gradient: "from-purple-600 to-indigo-600",
     },
+    {
+      id: 8,
+      title: "FukiKnow Systems",
+      author: "Wahyu Aji Aruma Sekar Puri (with team)",
+      tags: ["UI/UX", "Figma", "System Analytic"],
+      icon: <Database className="h-5 w-5" />,
+      link: "https://www.figma.com/proto/jlydqbwiCvBCcZv5PRUgVB/FukiKnow?node-id=4451-560&p=f&t=TLWDhSOasWHiYVpB-1&scaling=scale-down&content-scaling=fixed&page-id=4403%3A42&starting-point-node-id=4451%3A560",
+      gradient: "from-orange-600 to-indigo-600",
+    },
+    {
+      id: 9,
+      title: "Sustainify Systems",
+      author: "Wahyu Aji Aruma Sekar Puri (with team)",
+      tags: ["UI/UX", "Figma", "System Analytic", "Workflow System"],
+      icon: <Database className="h-5 w-5" />,
+      link: "https://drive.google.com/file/d/15pq2Vt7yHpzEAc_46Pi52F0zrpN9ufvM/view",
+      gradient: "from-green-600 to-indigo-600",
+    },
   ]
 
   const certificates = [
@@ -402,7 +420,7 @@ export default function HomePage() {
                     href="mailto:wahyu.aji21@ui.ac.id"
                     className="text-purple-400 hover:text-purple-300 hover:underline text-sm transition-colors"
                   >
-                    kuliahsekar608@gmail.com
+                    wahyu.aji21@ui.ac.id
                   </Link>
                 </div>
               </div>
@@ -548,7 +566,7 @@ export default function HomePage() {
                 🚀 Complete Portfolio Collection
               </h3>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">
-                Discover my comprehensive collection of data analytics projects, visualizations, and system analysis
+                Discover my comprehensive collection of data analytics projects, visualizations, UI/UX, and system analysis
                 work
               </p>
               <div className="flex items-center justify-center gap-2 text-sm text-purple-600">
