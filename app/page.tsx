@@ -118,7 +118,7 @@ export default function HomePage() {
       author: "Wahyu Aji Aruma Sekar Puri (with team)",
       tags: ["UI/UX", "Figma", "System Analytic", "Workflow System"],
       icon: <Database className="h-5 w-5" />,
-      link: "https://drive.google.com/file/d/15pq2Vt7yHpzEAc_46Pi52F0zrpN9ufvM/view",
+      link: "https://drive.google.com/file/d/1z6OElD8XmoBo9uxrVEMYfNg2v7TtXXX3/view?usp=sharing",
       gradient: "from-green-600 to-indigo-600",
     },
   ]
